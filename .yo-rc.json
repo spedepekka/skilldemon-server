@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "baseName": "skilldemon",
+    "packageName": "com.mrtuovinen.skilldemon",
+    "packageFolder": "com/mrtuovinen/skilldemon",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "ad9d093938c8823cea3b941b843be0ea004c00cc",
+    "testFrameworks": [
+      "cucumber",
+      "protractor"
+    ]
+  }
+}
